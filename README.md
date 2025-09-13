@@ -57,6 +57,10 @@ O Iris é um dos datasets clássicos mais utilizados em aprendizado de máquina.
     [ 0 14  1]
     [ 0  2 13]
 
+
+### Gráfico Comparativo
+![Comparação entre modelos](Figure_1.png)
+
 ## 📝 Conclusão (resumida)
 
 O modelo com melhor desempenho no dataset Iris foi o **KNN**, que alcançou a maior acurácia (**97,8%**) entre os algoritmos testados.  
