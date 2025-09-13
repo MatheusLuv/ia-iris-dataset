@@ -2,7 +2,7 @@
 
 **Disciplina:** Inteligência Artificial<br>
 **Professor:** Ronierison de Souza Maciel<br>
-**Aluno:** Anthony dos Santos Martins<br>
+**Aluno:** Matheus Menezes da Cruz<br>
 **Curso:** Sistemas de Informação – VI Período, Noturno<br>
 
 ### Objetivo da Atividade
